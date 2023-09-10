@@ -1,0 +1,4 @@
+ Self Journey
+        -  Get all documents for logged in colleague with various filter options.
+        -  Requires Colleague Token for the logged in colleague to be sent in the request Authorization header.
+        -  `locationUUID` should be passed to switch context between the locations and validate the feature is available for particular store.
