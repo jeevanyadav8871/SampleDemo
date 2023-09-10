@@ -1,3 +1,3 @@
- Self Journey
+ Self Journey automation
         -  Get all documents for logged in colleague with various filter options.
         -  Requires Colleague Token for the logged in colleague to be sent in the request Authorization header.
